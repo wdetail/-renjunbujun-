@@ -1,0 +1,6 @@
+.mid{
+	flex-grow: 1;
+	overflow-y: scroll;	
+	/*flex-flow: column;
+	margin: 0 auto;	*/
+}
